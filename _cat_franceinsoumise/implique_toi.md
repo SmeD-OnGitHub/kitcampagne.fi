@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Implique toi
+title: Comment s'impliquer ?
 contentdescription:
 icon: logo-fi.svg
 sortinglabel: fi-l3
